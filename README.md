@@ -7,10 +7,5 @@ Key Concepts:
 3. Level Design
 4. TileMap Logic 
 
-
-https://user-images.githubusercontent.com/77546739/193602734-23c307a6-328c-4d22-9de2-2a1c4bf4849d.mp4
-
-
-
 https://github.com/user-attachments/assets/ad872f51-0b97-4ba9-a5a2-6a4001f10bb3
 
