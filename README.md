@@ -1,7 +1,8 @@
 # Prison_Escape
- Unity 2D
+
 Prison Escape is a 2D Platformer game made in Unity using Unity’s TileMap System, Where the Player Navigates the Prison Caves through platforming and  fighting or avoiding Enemies.
-Key Concepts: 
+
+Key Concept: 
 1. Character Controller
 2. Enemy AI
 3. Level Design
